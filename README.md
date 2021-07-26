@@ -7,10 +7,14 @@ AUTORES:
 
 Objetivo General
 
+Desarrollar el método de Thevenin en el circuito propuesto utilizando los métodos previamente observados.
 
 
 Objetivos Específicos
 
+Calcular el voltaje de Thevenin en el circuito propuesto utilizando el teorema de Thevenin y el teorema de superposición.
+
+Mostrar el voltaje y resistencia total obtenidos mediante el método de Thevenin
 
 **2.MARCO TEÓRICO**
 
@@ -127,8 +131,11 @@ link del video
 https://youtu.be/feQaEY2clkM
 
 **6. CONCLUSONES**
-
-  
+ 
+ •	Cualquier circuito mixto o simplemente en serie o paralelo puede ser simplificado con respecto a dos terminales de salida con la ayuda del teorema de Thévenin
+ 
+ •	
+ 
  
 
 **7. BIBLIOGRAFÍA**
