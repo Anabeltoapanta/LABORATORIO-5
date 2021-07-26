@@ -14,7 +14,7 @@ Objetivos Específicos
 
 **2.MARCO TEÓRICO**
 
- !https://github.com/Anabeltoapanta/LABORATORIO-5/blob/main/marco%20teorico%20labo%205.png)[](
+ ![](https://github.com/Anabeltoapanta/LABORATORIO-5/blob/main/marco%20teorico%20labo%205.png)
 
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
