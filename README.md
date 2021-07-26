@@ -127,15 +127,17 @@ Todos estos datos los anotamos en una tabla a continuación y comparamos resulta
 
 link del video 
 
-
-https://youtu.be/feQaEY2clkM
+https://youtu.be/UDBoQgGre60
 
 **6. CONCLUSONES**
  
  •	Cualquier circuito mixto o simplemente en serie o paralelo puede ser simplificado con respecto a dos terminales de salida con la ayuda del teorema de Thévenin
  
- •	
+ •	Este metodo nos sirve para calcular circuitos demasiado complejos llevandonos a un circuito simplificado
  
+•	Los valores de voltaje y resistencia de thévenin depende de los valores del circuito original, qesto quiere decir que todos los valores son calculados a parotir de los valores iniciales
+
+•	Esta práctica nos permitió visualizar tanto  experimental y matemáticamente como se emplea el Teorema de Thevenin, el cual consiste en que el valor de las resistencias puede ser reemplazada o sustituida por otra fuente de tensión.
  
 
 **7. BIBLIOGRAFÍA**
